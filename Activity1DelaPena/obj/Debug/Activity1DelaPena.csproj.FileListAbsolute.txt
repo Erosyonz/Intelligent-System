@@ -1,0 +1,10 @@
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\bin\Debug\Activity1DelaPena.exe.config
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\bin\Debug\Activity1DelaPena.exe
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\bin\Debug\Activity1DelaPena.pdb
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.csproj.AssemblyReference.cache
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.Form1.resources
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.Properties.Resources.resources
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.csproj.GenerateResource.cache
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.csproj.CoreCompileInputs.cache
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.exe
+F:\DotNet\Activity1DelaPena\Activity1DelaPena\obj\Debug\Activity1DelaPena.pdb
