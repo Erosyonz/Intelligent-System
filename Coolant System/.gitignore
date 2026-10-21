@@ -1,0 +1,76 @@
+## Visual Studio User-Specific Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build Results & Artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm64/
+[Aa]rm/
+bld/
+[Ll]ogs/
+[Tt]emp/
+
+## Visual Studio Test Results
+*.trx
+*.punised
+*.testsettings
+*_i.iph
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.aps
+
+## NuGet Packages & Restore Folders
+# (Keep NuGet.config if needed, but ignore the actual packages)
+[Pp]ackages/
+*.nupkg
+*.snupkg
+# The packages folder can be restored via NuGet, but if using PackageReference, bin/obj cover most.
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Visual Studio Workspace & Environment
+.vs/
+*.userprefs
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET / Entity Framework / Dotnet Specific
+[Ee]xpress/
+sqlitedb/
+*.db
+*.sqlite
+
+## User Secrets & Environment Variables
+# Crucial so you don't leak connection strings or API keys
+secrets.json
+*.env
+
+## OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Visual Studio cache/options directories
+.vs/
+bin/
+obj/
+*.user
+*.suo
