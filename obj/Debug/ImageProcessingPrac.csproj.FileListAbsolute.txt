@@ -8,3 +8,13 @@ C:\Users\andre\Documents\IS_PROJECTS\ImageProcessingPrac\obj\Debug\ImageProcessi
 C:\Users\andre\Documents\IS_PROJECTS\ImageProcessingPrac\obj\Debug\ImageProcessingPrac.csproj.CoreCompileInputs.cache
 C:\Users\andre\Documents\IS_PROJECTS\ImageProcessingPrac\obj\Debug\ImageProcessingPrac.exe
 C:\Users\andre\Documents\IS_PROJECTS\ImageProcessingPrac\obj\Debug\ImageProcessingPrac.pdb
+C:\Users\allea\source\repos\IS-image-processing\bin\Debug\ImageProcessingPrac.exe.config
+C:\Users\allea\source\repos\IS-image-processing\bin\Debug\ImageProcessingPrac.exe
+C:\Users\allea\source\repos\IS-image-processing\bin\Debug\ImageProcessingPrac.pdb
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.csproj.AssemblyReference.cache
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.Form1.resources
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.Properties.Resources.resources
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.csproj.GenerateResource.cache
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.csproj.CoreCompileInputs.cache
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.exe
+C:\Users\allea\source\repos\IS-image-processing\obj\Debug\ImageProcessingPrac.pdb
